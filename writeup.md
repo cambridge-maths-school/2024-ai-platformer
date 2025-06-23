@@ -3,8 +3,7 @@
 ## The Problem
 
 -   People don't fully realise the potential of audio based gamesa
--   
-
+  
 ## Stakeholders
 
 -   Anyone who wants a more.. unique way of playing.
