@@ -2,7 +2,8 @@
 
 ## The Problem
 
--   ...
+-   People don't fully realise the potential of audio based gamesa
+-   
 
 ## Stakeholders
 
@@ -38,7 +39,7 @@
 
 ## Test data
 
-...
+"JUMMP" "DOWWN" "LEFFT" "RIGGHT"
 
 # Development
 
