@@ -2,26 +2,28 @@
 
 ## The Problem
 
--   Millions of lives are being lost every day because of a lack of a very basic webcam-controlled platformer, so I will fix this.
+-   *thomas - replace with your random incoherant misspelt sentence*
 
 ## Stakeholders
 
--   The millions of lives that will be saved.
+-   *thomas - replace with your random incoherant misspelt sentence*
 
 ## Research
 
--   ...
+<!-- Only research done was for the machine learning part -->
+
+-   <!-- Link to the ML website -->
 
 ## Features
 
 -   Player with AABB collisions and blocks to collide with
--   Webcam controls; will be implemented after player and blocks are, with movement keys as a temporary placeholder
+-   Audio controls; will be implemented after player and blocks are, with movement keys as a temporary placeholder
 
 # Design
 
 ## Structure
 
-...
+-   
 
 ## User interface
 
