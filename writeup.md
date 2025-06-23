@@ -2,15 +2,15 @@
 
 ## The Problem
 
--   Millions of lives are being lost every day because of a lack of a very basic webcam-controlled platformer, so I will fix this.
-
+-   People don't fully realise the potential of audio based gamesa
+  
 ## Stakeholders
 
--   The millions of lives that will be saved.
+-   Anyone who wants a more.. unique way of playing.
 
 ## Research
 
--   All of my research can be found [here](https://google.com/)
+-  Researched Luminx to see how platformers work
 
 ## Features
 
@@ -26,7 +26,7 @@
 
 ## User interface
 
-...
+-  UI? What UI
 
 ## Decomposition
 
@@ -38,7 +38,7 @@
 
 ## Test data
 
-...
+"JUMMP" "DOWWN" "LEFFT" "RIGGHT"
 
 # Development
 
