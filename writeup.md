@@ -27,7 +27,7 @@ Project will be made in Javascript, using a tiny sprinkle of HTML and CSS for re
 
 ## User interface
 
-...
+![UI Mockup image](./screenshots/UI-mockup.webp)
 
 ## Decomposition
 
