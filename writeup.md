@@ -10,13 +10,12 @@
 
 ## Research
 
--   All of my research can be found [here](https://google.com/)
+-   ...
 
 ## Features
 
--   Basic game ...
--   Collisions ...
--   Webcam ...
+-   Player with AABB collisions and blocks to collide with
+-   Webcam controls; will be implemented after player and blocks are, with movement keys as a temporary placeholder
 
 # Design
 
