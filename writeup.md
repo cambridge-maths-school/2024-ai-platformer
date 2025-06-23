@@ -6,11 +6,11 @@
 
 ## Stakeholders
 
--   ...
+-   Anyone who wants a more.. unique way of playing.
 
 ## Research
 
--   ...
+-  Researched Luminx to see how platformers work
 
 ## Features
 
@@ -26,7 +26,7 @@
 
 ## User interface
 
-...
+-  UI? What UI
 
 ## Decomposition
 
