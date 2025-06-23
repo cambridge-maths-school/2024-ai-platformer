@@ -6,7 +6,7 @@
   
 ## Stakeholders
 
--   Anyone who wants a more.. unique way of playing.
+-   Anyone who wants a more... unique way of playing.
 
 ## Research
 
@@ -23,7 +23,7 @@
 
 ## Structure
 
--   
+Project will be made in Javascript, using a tiny sprinkle of HTML and CSS for rendering to the browser. For audio controlling, we have decided to opt for [Google's Teachable Machine](https://teachablemachine.withgoogle.com/), which we will throw into the frontend.
 
 ## User interface
 
