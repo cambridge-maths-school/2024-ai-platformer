@@ -2,11 +2,11 @@
 
 ## The Problem
 
--   *thomas - replace with your random incoherant misspelt sentence*
-
+-   People don't fully realise the potential of audio based gamesa
+  
 ## Stakeholders
 
--   *thomas - replace with your random incoherant misspelt sentence*
+-   Anyone who wants a more.. unique way of playing.
 
 ## Research
 
