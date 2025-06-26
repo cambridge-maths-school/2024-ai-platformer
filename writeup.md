@@ -31,7 +31,13 @@ Project will be made in Javascript, using a tiny sprinkle of HTML and CSS for re
 
 ## Decomposition
 
-...
+The program needs:
+A section to take in the audio, then convert it to a "move" using teachable machine
+A section to process where the character will now be / its velocity
+A section to graphically output this information
+
+Functions would include left(), right(), jump() and down() (The original plan didn't actually have down do anything, but with more time some functionality may have been implemented).
+All 4 of those functions would be directly triggered by the teachable machine code. These functions would apply a velocity (or more likely just straight up move the character since velocity takes a while to implemented).
 
 ## Algorithms
 
