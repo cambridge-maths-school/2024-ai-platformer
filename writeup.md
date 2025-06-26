@@ -50,7 +50,7 @@ All 4 of those functions would be directly triggered by the teachable machine co
 
 # Development
 
-...
+Procedural coding most likely
 
 # Evaluation
 
