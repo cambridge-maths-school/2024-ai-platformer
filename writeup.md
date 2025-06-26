@@ -6,7 +6,7 @@
   
 ## Stakeholders
 
--   People with motion issues (Either medical or simply due to age) who still want to play games, or anyone wants to try a different way of playing.
+-   People with motion issues (Either medical or simply due to age) who still want to play games, or anyone who wants to try a different way of playing.
 
 ## Research
 
